@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/jlcarmic/ssh-updater.git"
   },
-  "author": "John Carmichael <jlcarmic@gmail.com>",
+  "author": "John Carmichael",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jlcarmic/ssh-updater/issues"
